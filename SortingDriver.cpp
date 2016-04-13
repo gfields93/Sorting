@@ -12,7 +12,7 @@ enum input_t {INCREASING, DECREASING, CONSTANT, RANDOM};
 
 #define DEFAULT_N     100000
 #define DEFAULT_ALG   INSERTION
-#define DEFAULT_INPUT DECREASING
+#define DEFAULT_INPUT RANDOM
 
 #define N_ARG         1
 #define ALG_ARG       2
