@@ -153,11 +153,6 @@ int main(int argc, char** argv)
 
   free(data);
   free(temp);
-
-  //Windows:  pause so window doesn't vanish
-  char c;
-  cout << "Type 'q' to quit:  ";
-  cin >> c;
   return 0;
 }
 
